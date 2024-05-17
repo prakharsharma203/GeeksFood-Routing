@@ -1,0 +1,29 @@
+
+.card289{
+    width: 400px;
+    border-radius: 5px;
+    box-shadow: 2px 4px 4px 2px rgba(0, 0, 0, 0.2); 
+}
+.card39>p{
+    margin-top: -10px;
+    font-size: 18px;
+    color: rgb(64, 63, 63);
+}
+.card29{
+    background-color: #F3F4F6;
+    padding-block: 10px;
+    padding-inline: 10px;
+}
+.card29>p{
+    color: #22C55E;
+}
+.card39{
+    padding-inline: 20px;
+}
+.atag{
+    text-decoration: none;
+    color: blue;
+}
+a:hover{
+    text-decoration: underline;
+}

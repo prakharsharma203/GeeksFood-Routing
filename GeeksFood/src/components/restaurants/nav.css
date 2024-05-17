@@ -1,0 +1,15 @@
+
+.data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 70px 50px;
+}
+.inputtext{
+    padding: 10px 15px;
+    border-radius: 5px;
+}
+.number{
+    width: 60px;
+    height: 40px;
+}

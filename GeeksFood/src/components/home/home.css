@@ -1,0 +1,150 @@
+
+.img1{
+    width: 1500px;
+    height: 700px;
+    object-fit: cover;
+}
+.text{
+    position: absolute;
+    width: 500px;
+    height: 200px;
+    top: 250px;
+    left: 200px;
+    text-align: center;
+}
+h1{
+    font-size: 3rem;
+}
+.htag{
+    font-size: 3rem;
+    margin-top: -40px;
+    font-weight: 800;
+    color: #BE123C;
+}
+p{
+    font-size: 1.3rem;
+    margin-top: -25px;
+}
+.btn1{
+    padding: 10px 35px;
+    background-color: #BE123C;
+    color: white;
+    border: none;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+.btn2{
+    padding: 10px 35px;
+    background-color: white;
+    border: none;
+    font-weight: bolder;
+    color: #BE123C;
+    border-radius: 5px;
+}
+.btn3{
+    display: flex;
+    gap: 20px;
+    border-radius: 5px;
+}
+.img2d{
+    margin-top: 100px;
+    width: 50%;
+    height: 60%;
+}
+.box65{
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    top: 1000px;
+    left: 800px;
+}
+.text12{
+    line-height: 35px;
+}
+.ptext2{
+    margin-top: 10px;
+    color: grey;
+}
+.btn5{
+    padding: 15px 40px;
+    background-color: #4F46E5;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+.card19{
+    width: 1000px;
+   height: 200px;
+    font-size: 17px;
+    line-height: 1.5rem;
+    /* border: 2px solid black; */
+    background-color: #F9FAFB;
+    border-radius: 5px;
+    padding: 20px 20px;
+     box-shadow: 2px 2px 2px #798da2;
+}
+.card26{
+    width: 1000px;
+    height: 250px;
+     font-size: 17px;
+     line-height: 1.5rem;
+     /* border: 2px solid black; */
+     background-color: #F9FAFB;
+     border-radius: 5px;
+     padding: 20px 20px;
+      box-shadow: 2px 2px 2px #798da2;
+}
+.inline{
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    align-items: center;
+    /* gap: 10px; */
+    margin: 150px 120px;
+}
+.imgtag{
+    width: 40px;
+    border-radius: 50%;
+    margin-top: 80px;
+}
+.photo2{
+    position: relative;
+    top: 120px;
+    right: 320px;
+}
+.photo1{
+    position: relative;
+    top: 150px;
+    right: 300px;
+}
+.photo3{
+    position: relative;
+    top: 120px;
+    right: 320px;
+}
+.text5{
+    position: relative;
+    left: 60px;
+    bottom: 30px;
+}
+.text5>p{
+    font-size: 17px;
+    line-height: 1.8rem;
+    font-weight: bold;
+}
+.container9{
+    width: 400px;
+}
+.card3{
+    width: 1000px;
+    height: 150px;
+     font-size: 17px;
+     line-height: 1.5rem;
+     /* border: 2px solid black; */
+     background-color: #F9FAFB;
+     border-radius: 5px;
+     padding: 20px 20px;
+      box-shadow: 2px 2px 2px #798da2;
+}

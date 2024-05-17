@@ -1,0 +1,19 @@
+.card22 {
+    border: 1px solid grey;
+    padding: 20px;
+    margin: 40px 100px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    /* width: 900px; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    p {
+      font-size: 28px;
+      font-weight: 600;
+      margin-top: 20px;
+    }
+    span {
+      color: grey;
+    }
+}
